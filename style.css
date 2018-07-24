@@ -2,11 +2,7 @@ body{
     background-color: gold;
 }
 
-<<<<<<< HEAD
-h3{
-    font-size: 2em;
-=======
 h1{
     color: blue;
->>>>>>> Camino_triste
+    font-weight: bold;
 }
